@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm G karthik Koundinya</h1>
 <h3 align="center">A passionate AI Engineer and Front End Developer from India</h3>
 
-- 🔭 I’m currently working on [Java Intership](https://github.com/G26karthik/HexSoftwares_Java-Internship)
+- 🔭 I’m currently working on [Java](https://github.com/G26karthik/Java-Projects)
 
 - 🌱 I’m currently learning **Java,Tensorflow,Keras**
 
